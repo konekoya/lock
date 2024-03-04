@@ -9,6 +9,6 @@
   "author": "Joshua",
   "license": "ISC",
   "dependencies": {
-    "react": "^18.0.0"
+    "react": "^17.0.1"
   }
 }
